@@ -162,13 +162,13 @@ isort . --virtual-env dspioenv
 ## PROJECT SCOPE
 Dans ce projet ,on utilise 4 algorithme de base pour genere le recommendation:
 * # Algorithme Populaire : 
-base sur les articles le plus populaire
+Base sur les articles le plus populaire
 * # Algorithme Similarity:
-base sur les articles le plus similaire
+Base sur les articles le plus similaire
 * # Algorithme Contenu:
-base sur le contenu
+Base sur le contenu, c'est a dire a leur produit achete en avant
 * # Algorithme hybrid:
-combinaison de articles similaire et le contenu
+Combinaison de articles similaire et le contenu
 
 ## Exemple and Integration
 ![](https://github.com/anjaragit/System_Recommendation/blob/main/sysrec_v3%20(3).gif)
