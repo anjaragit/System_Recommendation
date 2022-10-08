@@ -171,4 +171,4 @@ base sur le contenu
 combinaison de articles similaire et le contenu
 
 ## Exemple and Integration
-![](https://github.com/anjaragit/System_Recommendation/blob/main/sysrec-v3_pFKzl2o8.gif)
+![](https://github.com/anjaragit/System_Recommendation/blob/main/sysrec_v3%20(3).gif)
