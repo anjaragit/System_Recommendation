@@ -171,4 +171,4 @@ base sur le contenu
 combinaison de articles similaire et le contenu
 
 ## Exemple and Integration
-![](https://github.com/anjaragit/System_Recommendation/blob/main/Capture%20d%E2%80%99%C3%A9cran_2022-10-03_21-12-35.png)
+![](https://github.com/anjaragit/System_Recommendation/blob/main/example_short.gif)
