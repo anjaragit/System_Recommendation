@@ -171,4 +171,4 @@ base sur le contenu
 combinaison de articles similaire et le contenu
 
 ## Exemple and Integration
-![datascience_pio](/home/herilala/Téléchargements/sysrec_v3.gif)
+![datascience_pio](Untitled.gif)
